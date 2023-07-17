@@ -1,2 +1,4 @@
-# Airport_analysis
- Airport analysis in Scandinavia
+# Airport data analysis in Scandinavia
+
+Data retrieved from OpenAIP. (https://www.openaip.net/) 
+
